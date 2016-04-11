@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Imaginese is dedicated to inspiring and organizing for positive change through the arts. Creativity can transform our world...\"What's your creative dream?\""
-datePublished: '2016-04-10T06:12:29.116Z'
-dateModified: '2016-04-10T06:12:28.630Z'
+datePublished: '2016-04-11T18:23:23.356Z'
+dateModified: '2016-04-11T18:21:37.134Z'
 title: ''
 author: []
 authors: []
